@@ -89,6 +89,10 @@
           "content": "docs/Callbacks.md"
         },
         {
+          "title": "OAuth 2.0",
+          "content": "docs/OAuth.md"
+        },
+        {
           "title": "Path Parameters",
           "content": "docs/serviceParamMap.md"
         },
