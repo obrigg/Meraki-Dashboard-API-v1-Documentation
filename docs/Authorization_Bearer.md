@@ -1,6 +1,7 @@
 ## Authorization
 
 The Meraki Dashboard API uses Bearer authentication, requiring an API key to be included in the header of each request.
+When using [OAuth 2.0](https://developer.cisco.com/meraki/api-v1/oauth/), the OAuth access token will be used as the Bearer token instead of an API key.
  
 ```json
 {
